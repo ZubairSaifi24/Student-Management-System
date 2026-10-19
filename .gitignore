@@ -1,0 +1,25 @@
+# Java compiled files
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
